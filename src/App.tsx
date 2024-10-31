@@ -4,10 +4,10 @@ import EmployeeCard from "./components/EmployeeCard";
 
 const sampleEmployee = {
 	name: {
-		first: "John",
-		last: "Do",
+		first: "Evan",
+		last: "Turner",
 	},
-	email: "j.do@example.com",
+	email: "evan.turner@example.com",
 	picture: {
 		medium: "https://randomuser.me/api/portraits/med/men/42.jpg",
 	},
